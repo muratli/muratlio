@@ -16,7 +16,6 @@ namespace muratlio.Controllers
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
-            var x = "burak";
 
             return View();
         }
